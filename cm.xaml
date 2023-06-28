@@ -16,10 +16,10 @@
 <local:MyCard Title="离线玩家如何登录服务器账户系统？" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="如何注册账户？（仅第一次进入服务器需要注册）" />
-        <TextBlock Margin="0,0,0,4" FontSize="15" HorizontalAlignment="Left" Foreground="#" Text="输入指令 /reg 密码 密码 验证码 *高峰时期可能会需要验证码" />
+        <TextBlock Margin="0,0,0,4" FontSize="15" HorizontalAlignment="Left" Text="输入指令 /reg 密码 密码 验证码 *高峰时期可能会需要验证码" />
 
 
         <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="如何登陆服务器账户系统？（每次进入服务器都需要登录）" />
-        <TextBlock Margin="0,0,0,4" FontSize="15" HorizontalAlignment="Left" Foreground="#" Text="输入指令    /login 密码    即可" />
+        <TextBlock Margin="0,0,0,4" FontSize="15" HorizontalAlignment="Left" Text="输入指令    /login 密码    即可" />
     </StackPanel>
 </local:MyCard>
