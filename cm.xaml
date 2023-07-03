@@ -1,6 +1,8 @@
 <local:MyCard Title="提示 Tips ">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="本端为 初梦 服务器客户端 | 感谢游玩" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="已成功连接至在线公告 - Ver. 0.1" />
+        <TextBlock Margin="0,0,0,4" FontSize="15" HorizontalAlignment="Left" Text="服务器当前正在制作中..." />
     </StackPanel>
 </local:MyCard>
 
